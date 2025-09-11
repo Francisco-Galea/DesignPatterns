@@ -2,6 +2,13 @@
 
 namespace FactoryMethod.Classes
 {
+    /// <summary>
+    /// Representa un auto que implementa el contrato IVehicle.
+    /// Demuestra polimorfismo: puede ser tratado como IVehicle manteniendo su comportamiento específico.
+    /// </summary>
+    /// <remarks>
+    /// Ejemplo de uso polimórfico: IVehicle vehiculo = new Car();
+    /// </remarks>
     public class Car : IVehicle
     {
         public string brand { get; private set; }
