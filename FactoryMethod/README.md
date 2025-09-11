@@ -1,9 +1,12 @@
 # ??? Factory Method
 
-## ?? Teoría
-El **Factory Method** es un patrón de diseño **creacional** que define una interfaz para crear objetos, pero permite que las subclases decidan qué clase instanciar.  
-De esta manera, se delega la responsabilidad de la creación de objetos a las subclases.
+## ğŸ“– Teorï¿½a
+El **Factory Method** es un patrï¿½n de diseï¿½o **creacional** que define una interfaz para crear objetos, pero permite que las subclases decidan quï¿½ clase instanciar.  
+De esta manera, se delega la responsabilidad de la creaciï¿½n de objetos a las subclases.
 
-- ?? Evita el acoplamiento directo con clases concretas.  
-- ?? Facilita la extensión del código.  
-- ?? Aplica el Principio de Abierto/Cerrado (OCP).  
+- âœ”ï¸ Evita el acoplamiento directo con clases concretas.  
+- âœ”ï¸ Facilita la extensiï¿½n del cï¿½digo.  
+- âœ”ï¸ Aplica el Principio de Abierto/Cerrado (OCP).  
+
+## ğŸ“Š Diagrama
+![Factory Method]Factory Method.png
