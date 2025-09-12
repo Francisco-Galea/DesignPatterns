@@ -43,4 +43,8 @@ Facilitar el aprendizaje de los patrones de diseño más usados en el desarrollo
 - [ ] State  
 - [ ] Template Method  
 - [ ] Visitor  
-- [ ] Chain of Responsibility  
+- [ ] Chain of Responsibility
+
+### 🔍 ¿Como participar?
+Para poder subir patrones al repositorio y no pisarse entre otros usuarios, mi idea fue que habran un ISSUE, de titulo deberá tener el nombre del patrón + estado de la implementacion. Ejemplo: Factory Method FINALIZADO, Factory Method EN PROCESO, Factory method AYUDA.
+Si se lee algun titulo nombrePatron + AYUDA, intentemos colaborar con el usuario, todos estamos aprendiendo, y la idea es que podamos colaborar entre todos. 
