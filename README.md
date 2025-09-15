@@ -22,7 +22,7 @@ Si se lee algun titulo nombrePatron + AYUDA, intentemos colaborar con el usuario
 ## 📘 Lista de Patrones a cubrir
 
 ### 🔨 Creacionales
-- [ ] Singleton  
+- [✔️] Singleton  
 - [✔️] Factory Method  
 - [ ] Abstract Factory  
 - [ ] Builder  
